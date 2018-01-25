@@ -1,3 +1,4 @@
-# RTPL_Project+
+# RTPL_Project
 
-#this is a modification
+This is the readme file for the whole RTPL project folder.
+A seperate one for only the MathGame has still to be created.
