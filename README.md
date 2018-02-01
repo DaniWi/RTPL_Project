@@ -20,7 +20,7 @@ Note: If the result in the easy level (only integer values) is a decimal, floori
 written in Ada with SPARK
 
 # Authors
-written by Daniel Witsch (XXXXXX) and Stefan Eber #03646974  at Technical University Munich
+written by Daniel Witsch (#03687957) and Stefan Eber #03646974  at Technical University Munich
 
 # Copyright
 
