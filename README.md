@@ -11,8 +11,8 @@ In the hard level the player is challenged with tasks containing floating point 
         
 Overall the player has to solve 10 tasks whereby the mathematical operation (additon, subtraction,multiplication, division) as well as the two operands are chosen randomly.
 
-        </br>
-        </br>
+
+
 Note: If the result in the easy level (only integer values) is a decimal, flooring has to be applied.
 
 
