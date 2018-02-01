@@ -1,5 +1,5 @@
 # Name
-        MathGame - a challenging MathGame
+MathGame - a challenging MathGame
 
 
 # Description
