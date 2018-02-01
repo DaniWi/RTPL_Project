@@ -4,12 +4,12 @@
 
 # Description
 
-        This program is implementing a challenging mathematic game with determination of the average solving time for the player. </br>
-        The user is asked for his player name and asked to choose between an easy and a hard level.
-        In the easy level the player is challenged with tasks containing math operations on two integer numbers in the range from 1 to 100. </br>
-        In the hard level the player is challenged with tasks containing floating point numbers in the range of 1 to 100 instead of integers. </br>
+This program is implementing a challenging mathematic game with determination of the average solving time for the player. </br>
+The user is asked for his player name and asked to choose between an easy and a hard level.
+In the easy level the player is challenged with tasks containing math operations on two integer numbers in the range from 1 to 100. </br>
+In the hard level the player is challenged with tasks containing floating point numbers in the range of 1 to 100 instead of integers. </br>
         
-        Overall the player has to solve 10 tasks whereby the mathematical operation (additon, subtraction,multiplication, division) as well as the two operands are chosen randomly.
+Overall the player has to solve 10 tasks whereby the mathematical operation (additon, subtraction,multiplication, division) as well as the two operands are chosen randomly.
 
         </br>
         </br>
@@ -17,13 +17,13 @@ Note: If the result in the easy level (only integer values) is a decimal, floori
 
 
 # Language
-        written in Ada with SPARK
+written in Ada with SPARK
 
 # Authors
-        written by Daniel Witsch (XXXXXX) and Stefan Eber #03646974  at Technical University Munich
+written by Daniel Witsch (XXXXXX) and Stefan Eber #03646974  at Technical University Munich
 
 # Copyright
 
-        Copyright © 2018 All rights reserved.
+Copyright © 2018 All rights reserved.
 
 
